@@ -22,4 +22,4 @@ MeerkatFeedback.configure(
 
 **Stack:** Swift · SwiftUI · UIKit · Combine · SPM · CircleCI · Fastlane
 
-**Elsewhere:** [LinkedIn](https://linkedin.com/in/huseyiniyibas) · [Medium](https://medium.com/@huseyiniyibas)
+**Elsewhere:** [LinkedIn](https://linkedin.com/in/huseyiniyibas) · [Medium](https://iyibash.medium.com)
